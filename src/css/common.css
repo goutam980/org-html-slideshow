@@ -9,6 +9,7 @@ body {
 
 span.tag {
    display: none;
+   border :1px solid red
 }
 
 pre {
